@@ -9,7 +9,7 @@
     --fonte-cinza: #666;
     --borda-cabecalho-mobile: #103D4A;
     --bg-escuro: rgb(0, 0, 0);
-    --bg-claro: 
+    --bg-claro: rgb(19, 18, 18);
     --bg-chamada-mobile: #00161C;
 
     --montserrat: 'Montserrat', sans-serif;
@@ -18,7 +18,6 @@
 body{
     font-family: 'Open Sans', sans-serif ;
     color: var(--branco);
-    background-color: var(--bg-escuro);
 }
 
 h2{
@@ -30,6 +29,25 @@ h2{
     padding-right: 6%;
 }
 
+#secao{
+    background-color: var(--bg-claro);
+}
+
+#graficos{
+    background-color: var(--bg-escuro);
+}
+
+#modelagem{
+    background-color: var(--bg-claro);
+}
+
+#contato{
+    background-color: var(--bg-escuro);
+}
+
+#rodape{
+    background-color: var(--bg-claro) ;
+}
 
 @media screen and (min-width: 1024px) {
     .container {
