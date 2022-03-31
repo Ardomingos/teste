@@ -30,23 +30,23 @@ h2{
 }
 
 #secao{
-    background-color: var(--bg-claro);
+    background-color: var(--bg-escuro);
 }
 
 #graficos{
-    background-color: var(--bg-escuro);
-}
-
-#modelagem{
     background-color: var(--bg-claro);
 }
 
-#contato{
+#modelagem{
     background-color: var(--bg-escuro);
 }
 
+#contato{
+    background-color: var(--bg-claro)
+}
+
 #rodape{
-    background-color: var(--bg-claro) ;
+    background-color: var(--bg-escuro) ;
 }
 
 @media screen and (min-width: 1024px) {

@@ -1,4 +1,4 @@
-const imgs = document.getElementById('img');
+/*const imgs = document.getElementById('img');
 const img = document.querySelectorAll("#img img");
 
 let idx = 0;
@@ -14,4 +14,4 @@ function carrossel(){
     imgs.style.transform = `translateX(${-idx * 500}px)`;
 }
 
-setInterval(carrossel, 5000);
+setInterval(carrossel, 5000);*/
