@@ -35,6 +35,7 @@ h2{
 
 #graficos{
     background-color: var(--bg-claro);
+    height: 800px;
 }
 
 #modelagem{
