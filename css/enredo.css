@@ -35,7 +35,7 @@
 
 .enredo__imagem{
     display: none;
-    width: 40%;
+    width: 400px;
 }
 
 @media screen and (min-width: 1024px) {
